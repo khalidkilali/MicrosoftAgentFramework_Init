@@ -1,3 +1,3 @@
 ﻿using MicrosoftAgentFramework.Tools;
 
-await CreatingTools.RunSample();
+await StructuredOutput.RunSample();
