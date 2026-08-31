@@ -1,3 +1,5 @@
-﻿using MicrosoftAgentFramework.Tools;
+﻿using MicrosoftAgentFramework.RAG;
+using MicrosoftAgentFramework.Tools;
+using MicrosoftAgentFramework.VeilleTechno.Deconstruction_Object;
 
-await StructuredOutput.RunSample();
+await Deconst_Object.RunSample();
